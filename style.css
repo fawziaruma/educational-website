@@ -1,0 +1,78 @@
+.left{
+    display: flex;
+    justify-content: end;
+}
+.carousel-caption{
+    margin-bottom: 200px;
+}
+.caro-btn{
+    padding:10px 20px;
+    border: 2px solid white;
+    outline: none;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    cursor: pointer;
+}
+.caro-btn:hover{
+    background-color: white;
+    color: black;
+
+}
+.img-card{
+    height: 350px;
+    margin: 50px;
+}
+.image img{
+    height: 350px;
+    width: 500px;
+}
+.about{
+    margin-left: 60px;
+}
+.about h5{
+    color:rgb(33, 33, 242) ;
+}
+.a-btn{
+    width: 150px;
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid white;
+    outline: none;
+    background-color: rgb(33, 33, 242);
+    color: white;
+}
+.container{
+    background-color:rgb(33, 33, 242) ;
+    margin-top: 70px;
+    border-radius: 20px;
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.fa-brands{
+    padding: 10px;
+}
+.form{
+    display: flex;
+    gap: 20px;
+}
+#request{
+    background-color: orange;
+    color: black;
+    width: 100%;
+}
+footer{
+    height: 170px;
+    color: white;
+    background-color: rgb(36, 35, 35);
+    margin-top: 50px;
+    text-align: center;
+}
+footer p{
+    
+    padding-top: 80px;
+}
